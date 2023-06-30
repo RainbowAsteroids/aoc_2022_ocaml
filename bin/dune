@@ -1,0 +1,5 @@
+(executables
+  (public_names day_one)
+  (names day_one)
+  (libraries base stdio)
+)
