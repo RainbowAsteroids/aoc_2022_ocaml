@@ -1,5 +1,5 @@
 (executables
-  (public_names day_one day_two)
-  (names day_one day_two)
+  (public_names day_one day_two day_three)
+  (names day_one day_two day_three)
   (libraries base stdio)
 )
